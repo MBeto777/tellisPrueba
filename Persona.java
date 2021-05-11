@@ -3,5 +3,10 @@ public class Persona{
         String name;
         String lastName;
         int age;
+
+        
+    }
+    public Persona(){
+
     }
 }
