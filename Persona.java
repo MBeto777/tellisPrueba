@@ -7,6 +7,8 @@ public class Persona{
         
     }
     public Persona(){
-
+        name = "Lidia";
+        lastName = "Donaire";
+        age = 26;
     }
 }
